@@ -11,6 +11,11 @@
   spacing: 2px;
 }
 
+#panel .window-button {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 #panel .window-controls-box .window-button {
   width: 22px;
 }
